@@ -1,4 +1,4 @@
-# Sistema de Control de Acceso y Videoconferencia
+﻿# Sistema de Control de Acceso y Videoconferencia
 
 ## Problematica
 Durante la emergencia sanitaria generada por el COVID 19 un problema que se presento fue la limitación de visitas hospitalarias para reducir riesgos que afecten la salud de la población, esto perjudica tanto a los pacientes como a los familiares, ya que, no permite la convivencia entre el paciente y el familiar y no se puede observar el estado de salud del paciente.
@@ -63,3 +63,6 @@ https://{direccion ip}:{puerto}/Registro/
 # Por default 
 https://192.168.1.67:3000/Registro/ 
 ```
+
+
+![](./media/cambiarIP.gif)
